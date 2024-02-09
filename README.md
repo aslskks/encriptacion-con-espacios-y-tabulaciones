@@ -13,9 +13,13 @@
 &nbsp;&nbsp;git clone https://github.com/aslskks/encriptacion-con-espacios-y-tabulaciones  
 &nbsp;&nbsp;cd encriptacion-con-espacios-y-tabulaciones  
 
-&nbsp;2. **Ejecutar:**
-&nbsp;&nbsp;~~~bash
-python decry.py~~~ para desencryptar y  
-&nbsp;&nbsp;~~~bash
+&nbsp;2. **Ejecutar:**  
+~~~bash  
+python decry.py
+~~~  
+para desencryptar y  
+&nbsp;&nbsp;
+~~~bash
 python encry.py
-~~~ para encryptar
+~~~  
+para encryptar
